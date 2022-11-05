@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @KhaledSwidan
 - :eyes:  I’m interested in learning HTML5, CSS3, Bootstrap5, SCSS, JavaScript, ES6
 - 🌱 I'm currently learning React JS
-- :purple_heart: I’m looking to develop and learn new things
+- :purple_heart: I’m looking to develop and learn new tools
 - 📫 How to reach me: khaledqutb4@gmail.com
 
 
